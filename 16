@@ -1,0 +1,11 @@
+Еще одно свойство, которое ты можешь применить к определенному элементу это align-self. Это свойство принимает те же значения, что и align-items.
+
+
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+align-self: flex-end;
+}
