@@ -1,0 +1,8 @@
+Помоги лягушатам найти их лилии с помощью flex-direction и justify-content.
+Заметь, когда в качестве направления выбрана колонка, то justify-content влияет на вертикальное выравнивание, а align-items на горизонтальное.
+
+#pond {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
