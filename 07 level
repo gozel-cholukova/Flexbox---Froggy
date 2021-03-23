@@ -1,0 +1,7 @@
+Лягушатам снова нужно пересечь пруд. В этот раз к лилиям, с достаточно большим пространством вокруг них. Используй комбинацию justify-content и align-items.
+
+#pond {
+  display: flex;
+  justify-content:space-around;
+  align-items:flex-end
+}
