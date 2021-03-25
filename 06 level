@@ -1,0 +1,7 @@
+Направь лягушонка в центр пруда, используя justify-content и align-items вместе.
+
+#pond {
+  display: flex;
+  justify-content: center;
+  align-items:center
+}
